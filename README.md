@@ -1,5 +1,12 @@
-# Laravel Docker
+# EMP Docker
 
 ---
 
-### Simple Docker Containers to get running laravel Application with minimum configurations.
+## Simple Docker Containers to get running PHP Application running.
+
+### Containers
+- PHP
+- MySQL
+- NginX
+- Composer
+- npm
