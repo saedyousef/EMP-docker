@@ -1,8 +1,4 @@
-# EMP Docker
-
----
-
-## Simple Docker Containers to get running PHP Application running.
+# EMP Docker `Simple Docker containers to run a PHP application with minimal configurations.`
 
 ### Containers
 - PHP
